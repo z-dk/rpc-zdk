@@ -1,0 +1,7 @@
+# Project exclude paths
+/consumer/target/
+/provider/target/
+/provider-api/target/
+/rpc-zdk-client-spring-boot-stater/target/
+/rpc-zdk-core/target/
+/rpc-zdk-server-spring-boot-stater/target/
